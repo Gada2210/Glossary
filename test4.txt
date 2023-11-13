@@ -1,0 +1,9 @@
+check1
+ A
+
+check2
+1234ABCD
+
+check3
+AA 
+

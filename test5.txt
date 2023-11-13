@@ -1,0 +1,9 @@
+check1
+~ Hey
+
+check2
+Nice!
+
+check3
+Good.
+
